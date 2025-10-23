@@ -49,7 +49,7 @@
     "*.css": "tailwindcss",
     "*.md": "javascript"
   },
-  "workbench.colorTheme": "One Monokai",
+  "workbench.colorTheme": "Two Monokai",
   "tailwind-fold.autoFold": false,
   "tailwind-fold.unfoldIfLineSelected": true,
   "AHK++.v2.formatter": {
