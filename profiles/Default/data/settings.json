@@ -72,5 +72,13 @@
   "cursor.composer.textSizeScale": 0.85,
   "cursor.composer.shouldChimeAfterChatFinishes": true,
   "cursor.composer.backspaceRemoveContext": false,
-  "window.newWindowProfile": "Default"
+  "window.newWindowProfile": "Default",
+  "syncSettings.resources": [
+    "extensions",
+    "keybindings",
+    "settings",
+    "snippets",
+    "uiState"
+  ],
+  "syncSettings.keybindingsPerPlatform": false
 }
