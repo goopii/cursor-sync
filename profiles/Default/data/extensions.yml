@@ -1,8 +1,13 @@
 builtin:
   disabled:
+    - anysphere.cursor-commits
     - undefined.cursor-themes
 disabled: []
 enabled:
+  - id: anysphere.cursorpyright
+    uuid: d7f9f831-2239-4783-9d06-18d27f285818
+  - id: bierner.markdown-preview-github-styles
+    uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: christian-kohler.npm-intellisense

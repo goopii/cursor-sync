@@ -73,12 +73,8 @@
   "cursor.composer.shouldChimeAfterChatFinishes": true,
   "cursor.composer.backspaceRemoveContext": false,
   "window.newWindowProfile": "Default",
-  "syncSettings.resources": [
-    "extensions",
-    "keybindings",
-    "settings",
-    "snippets",
-    "uiState"
-  ],
-  "syncSettings.keybindingsPerPlatform": false
+  "syncSettings.resources": ["extensions", "keybindings", "settings", "snippets", "uiState"],
+  "syncSettings.keybindingsPerPlatform": false,
+  "cursor.composer.usageSummaryDisplay": "always",
+  "prettier.printWidth": 100
 }
